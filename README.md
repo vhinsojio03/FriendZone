@@ -1,0 +1,2 @@
+# FriendZone
+Kali linux
